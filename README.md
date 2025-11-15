@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resources/Salary%20Dashboard%20Video.gif" width="1000">
+  <img src="Resources/Salary%20Dashboard%20Video.gif" width="100">
 </p>
 
 # Data Science Salary Dashboard (Excel)
