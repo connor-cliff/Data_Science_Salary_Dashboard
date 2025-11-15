@@ -21,6 +21,7 @@ All graphs and metrics update dynamically based on these selections.
 ### Job Title Salary Rank
 Compare selected title against all others.
 ![Data_Science_Salary_Dashboard](Resources/title_graph.JPG { width="300" })
+<img src="Resources/title_graph.JPG" width="300">
 
 ### Global Job Distribution Map
 Shows where the selected job is concentrated across the world.  
