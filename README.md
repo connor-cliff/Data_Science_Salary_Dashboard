@@ -20,14 +20,17 @@ All graphs and metrics update dynamically based on these selections.
 
 ### Job Title Salary Rank
 Compare selected title against all others.
+
 <img src="Resources/title_graph.JPG" width="600">
 
 ### Global Job Distribution Map
 Shows where the selected job is concentrated across the world.  
+
 <img src="Resources/map.JPG" width="600">
 
 ### Job Type Salary Rank
 Compare job types within the selected title.  
+
 <img src="Resources/type_graph.JPG" width="600">
 
 ### Summary Metrics
