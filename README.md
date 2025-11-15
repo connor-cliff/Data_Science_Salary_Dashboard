@@ -18,15 +18,17 @@ All graphs and metrics update dynamically based on these selections.
 
 ## Visualisations
 
+### Job Title Salary Rank
+Compare selected title against all others.
+![Data_Science_Salary_Dashboard](Resources/title_graph.jpeg)
+
 ### Global Job Distribution Map
 Shows where the selected job is concentrated across the world.  
-**Add screenshot here**  
+![Data_Science_Salary_Dashboard](Resources/map.jpeg)
 
-
-### Salary Ranking Charts
-- **Job Title Salary Rank**: Compare selected title against all others.
-- **Job Type Salary Rank**: Compare job types within the selected title.  
-**Add screenshots**
+### Job Type Salary Rank
+Compare job types within the selected title.  
+![Data_Science_Salary_Dashboard](Resources/type_graph.jpeg)
 
 ### Summary Metrics
 - Median salary  
@@ -39,12 +41,12 @@ Shows where the selected job is concentrated across the world.
 
 The project uses separate sheets to keep data clean and modular:
 
-- **Calculator** – main dashboard logic (dashboard lives here)  
-- **Data_validation** – dropdown data  
-- **Title** – job titles and related data  
-- **Salary** – salary data used in charts  
-- **Country** – country lookup and regional data  
-- **Type** – job types (full time, part time, etc.)  
+- **Calculator** – main dashboard
+- **Data_validation** – dropdown data / count metric
+- **Title** – job titles / median salaries
+- **Country** – country / salary data  
+- **Type** – job schedule types / salary data
+- **Salary** – median salary metric data
 - **Platform** – job platform data  
 
 ---
