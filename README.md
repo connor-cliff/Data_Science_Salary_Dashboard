@@ -73,12 +73,12 @@ The dataset contains job titles, countries, schedule types, platforms, and salar
 Uses IF() to filter rows that match the selected job title, country, job type, and exclude zero salaries. The filtered salaries are then passed to MEDIAN() to calculate the median for the selected criteria.
 
 ### Background Table
-<img src="Resources/title_median_salary_table.JPG" width="400">
+<img src="Resources/title_median_salary_table.JPG" width="300">
 
 ### Dashboard Implementation
-<img src="Resources/title_graph_dashboard.JPG" width="600">
+<img src="Resources/title_graph_dashboard.JPG" width="400">
 
-## Features
+## Conclusion
 This dashboard provides a clear, interactive way to explore how data science salaries vary by job title, country, and job type. It combines Excel formulas, charts, and maps to deliver actionable insights for job seekers and highlights trends in the data science job market.
 
 
