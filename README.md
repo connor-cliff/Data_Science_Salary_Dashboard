@@ -5,7 +5,7 @@
 # Data Science Salary Dashboard (Excel)
 This Excel dashboard lets users explore the data science job market using interactive filters and visualisations. It includes dropdown selections for job title, country, and job type, and presents insights such as salary comparisons, job distribution, and top job platforms.
 
-Find the final dashboard here: [Data_Science_Salary_Dashboard](/salary_dashboard/)
+Find the final dashboard here: [Salary_Dashboard.xlsx]
 
 ---
 
