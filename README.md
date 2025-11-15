@@ -78,6 +78,7 @@ Uses IF() to filter rows that match the selected job title, country, job type, a
 ### Dashboard Implementation
 <img src="Resources/title_graph_dashboard.JPG" width="600">
 
-
+## Features
+This dashboard provides a clear, interactive way to explore how data science salaries vary by job title, country, and job type. It combines Excel formulas, charts, and maps to deliver actionable insights for job seekers and highlights trends in the data science job market.
 
 
