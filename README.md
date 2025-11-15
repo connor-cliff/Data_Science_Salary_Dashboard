@@ -20,15 +20,15 @@ All graphs and metrics update dynamically based on these selections.
 
 ### Job Title Salary Rank
 Compare selected title against all others.
-![Data_Science_Salary_Dashboard](Resources/title_graph.jpeg)
+![Data_Science_Salary_Dashboard](Resources/title_graph.jpg)
 
 ### Global Job Distribution Map
 Shows where the selected job is concentrated across the world.  
-![Data_Science_Salary_Dashboard](Resources/map.jpeg)
+![Data_Science_Salary_Dashboard](Resources/map.jpg)
 
 ### Job Type Salary Rank
 Compare job types within the selected title.  
-![Data_Science_Salary_Dashboard](Resources/type_graph.jpeg)
+![Data_Science_Salary_Dashboard](Resources/type_graph.jpg)
 
 ### Summary Metrics
 - Median salary  
