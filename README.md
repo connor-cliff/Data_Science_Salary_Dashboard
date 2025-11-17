@@ -8,7 +8,7 @@ This dashboard was built to explore how data science salaries change by job titl
 Find the final dashboard here: [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx)
 
 ---
-
+ 
 ## Features
 
 ### Interactive Filters
