@@ -5,7 +5,11 @@
 
 This dashboard was built to explore how data science salaries change by job title, country, and job type, and to practice structuring and visualising data in Excel. It provides an interactive way for job seekers to understand where roles are most common and how different positions compare salary-wise.
 
-Find the final dashboard here: [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx)
+## Quick Links
+
+Find SQL queries here: [Project SQL](https://github.com/connor-cliff/SQL_Project_Data_Job_Analysis)
+Find Excel analysis here: [Excel Analysis](https://github.com/connor-cliff/Excel_Project_Data_Analytics)
+Find the final dashboard here: [Salary Dashboard](Salary_Dashboard.xlsx)
 
 ---
  
